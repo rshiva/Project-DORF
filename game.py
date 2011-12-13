@@ -9,7 +9,8 @@ from mover import RandomMover
 from terrain import TerrainData
 from terrain.generators import MeteorTerrainGenerator, Smoother
 from terrain.generators import PlasmaFractalGenerator
-#made somechanges for practice
+#made some changes for practice
+#more changes
 
 class Game:
     def __init__(self):
